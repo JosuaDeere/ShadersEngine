@@ -1,0 +1,5 @@
+﻿  D3DManager.cpp
+C:\Users\josua\Documents\Projectos\ShadersEngine\ShadersEngine\source\D3DManager.cpp(612,84): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\josua\Documents\Projectos\ShadersEngine\ShadersEngine\source\D3DManager.cpp(990,5): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'HRESULT'
+C:\Users\josua\Documents\Projectos\ShadersEngine\ShadersEngine\source\D3DManager.cpp(990,5): warning C4302: 'type cast': truncation from 'HANDLE' to 'HRESULT'
+  ShadersEngine.vcxproj -> C:\Users\josua\Documents\Projectos\ShadersEngine\x64\Debug\ShadersEngine.exe
